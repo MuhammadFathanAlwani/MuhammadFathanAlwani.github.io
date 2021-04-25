@@ -1,29 +1,24 @@
-h1
-{
-font-family: georgia;
- text-align: center;}
-
-h3
-{
-	color: gray;
+h1 {font-family: georgia; 
 	text-align: center;}
 
-body
-{
-font-family: arial;
-background-image: url(https://cdn.hipwallpaper.com/i/79/13/iEwnvd.jpg);
-margin: 50px 50px 50px 50px;
-text-align: center;
-}
+h3 {color: gray;
+	text-align: center;}
 
-div
-{
-border: 5px solid grey;
-padding: 20px 20px 20px 20px
-}
+body {font-family: arial;
+	background-image: url(https://cdn.hipwallpaper.com/i/79/13/iEwnvd.jpg);
+	margin: 50px 50px 50px 50px;
+	text-align: center;}
 
-table
-{
-margin-left: auto;
-margin-right: auto
-}
+div{border: 5px solid grey;
+	padding: 20px 20px 20px 20px}
+
+table{margin-left: auto;
+	margin-right: auto}
+
+th
+{background-color: lightgrey}
+
+#border {background-color: grey}
+.lelah {background-color: #ffffbf}
+.sedih {background-color: #afeeee}
+.senang {background-color:  #f56991}
